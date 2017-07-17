@@ -1,0 +1,30 @@
+.page-header {
+	margin-top: 0;
+
+}
+
+.panel-body {
+	padding-top:0;
+
+
+}
+
+.featureimg {
+	margin-bottom:15px;
+
+}
+
+body {
+		margin-bottom: 15px;
+		width: 100%;
+		background-color: orange;
+
+
+}
+.panel-body {
+	background-color: lightgreen;
+}
+
+.navbar{
+	background-color: yellow;
+}
